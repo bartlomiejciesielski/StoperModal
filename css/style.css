@@ -83,7 +83,7 @@ button:hover, button:focus {
   scale: 1.2;
 }
 
-.history {
+.archives {
   flex-grow: 1;
   text-transform: uppercase;
 }
@@ -139,7 +139,7 @@ button:hover, button:focus {
 }
 
 .modal-animation {
-  animation: show-modal 0.5s;
+  animation: show-modal 1s;
 }
 
 @keyframes show-modal {

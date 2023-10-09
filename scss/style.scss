@@ -84,7 +84,7 @@ button {
     }      
 } 
 
-.history {
+.archives {
     flex-grow: 1;
     text-transform: uppercase;
 }
@@ -147,7 +147,7 @@ button {
 }
 
 .modal-animation {
-    animation: show-modal .5s;
+    animation: show-modal 1s;
 }
 
 @keyframes show-modal {
